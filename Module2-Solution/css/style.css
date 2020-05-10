@@ -22,12 +22,12 @@ h1{ text-align: center;
 
 	.box2{
 		margin: 20px 10px 20px 10px;
-		background-color: yellow;
+		background-color: #00f100;
 		}
 
 	.box3{
 		margin: 20px 20px 20px 10px;
-		background-color: #00f1f0;
+		background-color: #00f100;
 		}
 	
 	p{clear: right;
@@ -44,12 +44,15 @@ h1{ text-align: center;
 	}
 	.t1{
 		background-color: red;
+		border: 1px solid black;
 	}
 	.t2{
 		background-color: orange;
+		border: 1px solid black;
 	}
 	.t3{
 		background-color: violet;
+		border: 1px solid black;
 	}
 	@media (min-width: 992px){
 		.box1{
